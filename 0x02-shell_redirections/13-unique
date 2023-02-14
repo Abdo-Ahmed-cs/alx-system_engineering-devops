@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq list > list
+uniq -u
